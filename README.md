@@ -1,3 +1,4 @@
+Stereoscopy project for Virtual and Aigmented Reality course in Master's program.
 CAVE simulator
 Student: Malika Uteuliyeva
 
